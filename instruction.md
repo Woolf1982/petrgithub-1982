@@ -1,8 +1,9 @@
 ## Инструкция для работы с Markdown
-Вводим git init и git status, чтобы убедиться,
-что репозиторий создан.
-Повторяем команды git add, git log,
-git status.
+
+*git config --global user.email "Почта @"*
+
+*git config --global user.name "Имя"*
+
 
 git log — вызывать список действий и сохранений,
 git init — создать репозиторий в папке на локальной машине,
